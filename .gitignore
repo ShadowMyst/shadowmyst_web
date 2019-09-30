@@ -1,0 +1,8 @@
+# Ignorando el archivo site y todo su contenido
+_site/
+# Ignorando carpeta cache
+.jekyll-cache/
+
+# ---
+
+Gemfile.lock
