@@ -1,8 +1,20 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }} - Escrito por {{ site.author }}</p>
-<img src="{{page.cabecera}}" />
-
-{{ content }}
+<section class="section has-text-justified">
+  <div class="columns">
+    <div class="column is-3 is-hidden-mobile">
+        {% include aside.html %}
+    </div>
+    <div class="column is-9">
+      <div class="container">
+        <h1 class="title has-text-centered">{{ page.title }}</h1>
+        <h3 class="subtitle has-text-centered">{{ page.date | date_to_string }} - Escrito por {{ site.author }}</h3>
+        <figure class="image is-512 image-centered">
+            <img src="{{page.cabecera}}" />
+        </figure>
+        {{ content }}
+      </div>
+    </div>
+  </div>
+</section>

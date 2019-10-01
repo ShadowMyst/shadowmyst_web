@@ -1,13 +1,15 @@
 ---
 layout: default
 ---
-
-<ul>
+<section class="section has-text-justified">
+<div class="columns is-desktop is-multiline">
   {% for post in site.posts %}
-  <li>
-    <h2><a href="{{ post.url | | remove_first: '/' }}">{{ post.title }} </a></h2>
-    <img src="{{post.cabecera}}"
-    <p>{{ post.excerpt }}</p>
-  </li>
+    <div class="column is-one-third">
+        <a href="{{ post.url | | remove_first: '/' }}"><h2 class="subtitle has-text-centered has-text-link"> {{ post.title }}</h2>
+          <p><img src="{{post.cabecera}}" /></p>
+        </a>
+        {{ post.excerpt }}
+    </div>
   {% endfor %}
-</ul>
+</div>
+</section>
