@@ -9,6 +9,7 @@ layout: default
           <p><img src="{{post.cabecera}}" /></p>
         </a>
         {{ post.excerpt }}
+        <span class="tag is-black">{{ post.date | date_to_string }}</span>
     </div>
   {% endfor %}
 </div>
