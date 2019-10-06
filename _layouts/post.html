@@ -6,11 +6,29 @@ layout: default
     <div class="column is-9">
       <div class="container">
         <h1 class="title has-text-centered">{{ page.title }}</h1>
-        <h3 class="subtitle has-text-centered">{{ page.date | date_to_string }} - Escrito por {{ site.author }}</h3>
+        <h3 class="subtitle has-text-centered">{% assign m = page.date | date: "%-m" %}
+            {{ page.date | date: "%-d" }} de
+            {% case m %}
+              {% when '1' %}Enero
+              {% when '2' %}Febrero
+              {% when '3' %}Marzo
+              {% when '4' %}Abril
+              {% when '5' %}Mayo
+              {% when '6' %}Junio
+              {% when '7' %}Julio
+              {% when '8' %}Agosto
+              {% when '9' %}Septiembre
+              {% when '10' %}Octubre
+              {% when '11' %}Noviembre
+              {% when '12' %}Diciembre
+            {% endcase %} del
+            {{ page.date | date: "%Y" }} - Escrito por {{ site.author }}</h3>
         <figure class="image is-512 image-centered">
             <img src="{{page.cabecera}}" />
         </figure>
-        {{ content }}
+        <div class="content">
+          {{ content }}
+        </div>
       </div>
     </div>
     <div class="column is-3 is-hidden-mobile">
