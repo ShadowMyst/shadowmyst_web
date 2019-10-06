@@ -3,4 +3,4 @@ author: Shadow Myst
 url: "http://shadowmyst.net"
 #Build settings
 markdown: kramdown
-permalink: :slug:output_ext
+permalink: :slug
