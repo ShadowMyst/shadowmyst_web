@@ -7,7 +7,7 @@ categories:
 tags:
 - Tutorial Ruby
 - Ruby on Rails
-cabecera: assets/images/images_posts/Ruby-Tutorial-02.png
+cabecera: /assets/images/images_posts/Ruby-Tutorial-02.png
 ---
 Una vez que tenemos instalado Ruby en nuestra computadora es momento de pasar un poco mas a la practica, aunque podemos usar el <strong>IRB</strong> para nuestras practicas, yo les recomiendo que usen un <strong>IDE</strong> como puede ser <strong>Atom, Sublime Text, Visual Studio Code, entre otros.</strong>
 

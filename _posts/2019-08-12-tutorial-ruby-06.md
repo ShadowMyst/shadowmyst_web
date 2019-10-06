@@ -8,7 +8,7 @@ tags:
 - Tutorial Ruby
 - tutorial ruby on rails
 - ruby como programar
-cabecera: assets/images/images_posts/Ruby-Tutorial-06.png
+cabecera: /assets/images/images_posts/Ruby-Tutorial-06.png
 ---
 <p>Una de las grandes ventajas de la programación orientada a objetos es la forma en que podemos heredar atributos y métodos de clases padre, a sus respectivas clases hija, permitiendo que no tengamos que repetir código a cada rato y dándole extensibilidad a nuestros programas</p>
 

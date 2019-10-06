@@ -7,7 +7,7 @@ tags:
 - Telegram
 - criptomoneda telegram
 - TON
-cabecera: assets/images/images_posts/Telegram-Gram.png
+cabecera: /assets/images/images_posts/Telegram-Gram.png
 ---
 <p>Por varios medios se ha hablado de que la criptomoneda de Telegram saldrá al mundo más tardar en dos meses. Para ser preciso antes del 31 de Octubre o de lo contrario perderia su inversion de mas de 1,700 millones de dolares, segun el <strong>New York Times </strong>y con la esperanza ya anunciada que va a salir esta criptomoneda. Se me hizo un tema interesante de cual hablar.</p>
 

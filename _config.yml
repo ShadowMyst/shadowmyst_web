@@ -4,3 +4,16 @@ url: "http://shadowmyst.net"
 #Build settings
 markdown: kramdown
 permalink: :slug
+pagination:
+  enabled: true
+  permalink: "/page/:num/"
+  title: ' - page :num'
+  per_page: 9
+  sort_field: 'date'
+  sort_reverse: true
+# Plugins
+plugins:
+- jekyll-seo-tag
+
+gems:
+  - jekyll-paginate-v2

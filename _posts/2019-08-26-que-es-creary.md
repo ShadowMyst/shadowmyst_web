@@ -4,7 +4,7 @@ title: "¿Qué es Creary?"
 categories:
 - criptomonedas
 tags: creary
-cabecera: assets/images/images_posts/logo_crea.png
+cabecera: /assets/images/images_posts/logo_crea.png
 ---
 <p>Han pasado varios meses desde que en el canal de <a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=DjsKVclaNAI">Youtube hable sobre Creary</a>, además del artículo donde muestro <a href="https://shadowmyst.net/como-ser-witness-en-creary/">como puedes volverte Witness de esta plataforma/criptomoneda</a>, aun así no había hablado un poco mas profundo de Creary y todo lo que nos ofrece esta plataforma.</p>
 

@@ -10,7 +10,7 @@ tags:
 - localbitcoins
 - comprar criptomonedas en mexico
 - comprar bitcoins en mexico
-cabecera: assets/images/images_posts/exchange-mexico.png
+cabecera: /assets/images/images_posts/exchange-mexico.png
 ---
 <p>Este post está orientado para los que quieren entrar al mundo de las criptomonedas y que viven en México. Para los que van empezando es bueno que busquen cómo comprar criptomonedas como el Bitcoin en México ya sea por inversión, para tener mayor control de su dinero o simplemente curiosidad. (Cualquier duda sobre este post déjamelo en los comentarios).</p>
 

@@ -3,7 +3,7 @@ layout: post
 title: Google Stadia y el decadente Internet de latinoamerica
 categories:
 - videojuegos
-cabecera: assets/images/images_posts/Google-Stadia.jpg
+cabecera: /assets/images/images_posts/Google-Stadia.jpg
 ---
 
 **Google Stadia** ha sido anunciado hace poco, la plataforma de streaming de videojuegos, nos permitirá jugar videojuegos con calidad 4K y a 60 FPS sin necesidad de tener un a consola. Esto podría iniciar una nueva era para la industria de los videojuegos al ser bien planteado.

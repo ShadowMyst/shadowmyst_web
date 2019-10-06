@@ -2,10 +2,10 @@
 layout: post
 title: Critica Avengers Endgame
 categories:
-- critica/opinion
+- review
 tags:
 - peliculas
-cabecera: assets/images/images_posts/avengers-endgame.jpg
+cabecera: /assets/images/images_posts/avengers-endgame.jpg
 ---
 Una saga de más de 10 años por fin ha llegado, Avengers Endgame ha concluido con un ciclo con altas y bajas. Avengers Endgame ha estado en las expectativas de todos desde el estreno de su antecesora Avengers Infinity War donde los fans buscaban sacar de cualquier pista posible antes de su estreno de la película y al final rompió esas expectativas dando un film muy bueno.
 

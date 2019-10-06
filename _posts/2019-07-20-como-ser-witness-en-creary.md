@@ -8,7 +8,7 @@ tags:
 - creary wtiness
 - creary
 - como ser testigo en creary
-cabecera: assets/images/images_posts/creary.png
+cabecera: /assets/images/images_posts/creary.png
 ---
 <p>Para los que me conocen saben que soy fanático de las criptomonedas y uno de los proyectos que mas me gustan es el de la criptomoneda <a rel="noreferrer noopener" aria-label="Creary (opens in a new tab)" href="https://creary.net" target="_blank">Creary</a> que he seguido desde sus inicios como Creativecoin. Y como usa una blockchain como Steemit, no quería esperar para convertirme en Witness.</p>
 

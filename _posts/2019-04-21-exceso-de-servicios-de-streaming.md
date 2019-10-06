@@ -3,7 +3,7 @@ layout: post
 title: Exceso de servicios de Streaming
 categories:
 - criticas
-cabecera: assets/images/images_posts/streamers.png
+cabecera: /assets/images/images_posts/streamers.png
 ---
 Desde la llegada de Netflix se ha creado una revolución hacia la forma en que podemos disfrutar las películas, series y caricaturas que antes solamente podíamos obtener de televisión casera, televisión de paga teniendo que adaptarnos a la programación que nos brindaban y tener la suerte de no perdernos algo que quisiéramos ver por cuestiones de nuestra vida diaria.
 

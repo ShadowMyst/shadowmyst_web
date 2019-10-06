@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="assets/css/styles.css" />
+  <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}" />
   {% if page.title %}
     <title>{{ page.title }}</title>
   {% else %}
@@ -34,11 +34,11 @@
     {% include navigation.html %} 
     {{ content }}
   <footer class="footer">
-    Pagina creada por <b>Shadow Myst</b> desarrollada con Jekyll y alojada con IPFS<br />
+    Pagina creada por <b>Shadow Myst</b> desarrollada con Jekyll<br />
     <a href="https://bulma.io">
-      <img src="assets/images/made-with-bulma--dark.png" alt="Made with Bulma" width="128" height="24">
+      <img src="/assets/images/made-with-bulma--dark.png" alt="Made with Bulma" width="128" height="24">
     </a>
   </footer>
-  <script src="assets/js/app.js"></script>
+  <script src="/assets/js/app.js"></script>
 </body>
 </html>

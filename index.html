@@ -1,32 +1,5 @@
 ---
-layout: default
+layout: home
+pagination: 
+  enabled: true
 ---
-<section class="section has-text-justified">
-<div class="columns is-desktop is-multiline">
-  {% for post in site.posts %}
-    <div class="column is-one-third">
-        <a href="{{ post.url | | remove_first: '/' }}"><h2 class="subtitle has-text-centered has-text-link"> {{ post.title }}</h2>
-          <p><img src="{{post.cabecera}}" /></p>
-        </a>
-        {{ post.excerpt }}
-        <span class="tag is-black">{% assign m = post.date | date: "%-m" %}
-            {{ post.date | date: "%-d" }} de
-            {% case m %}
-              {% when '1' %}Enero
-              {% when '2' %}Febrero
-              {% when '3' %}Marzo
-              {% when '4' %}Abril
-              {% when '5' %}Mayo
-              {% when '6' %}Junio
-              {% when '7' %}Julio
-              {% when '8' %}Agosto
-              {% when '9' %}Septiembre
-              {% when '10' %}Octubre
-              {% when '11' %}Noviembre
-              {% when '12' %}Diciembre
-            {% endcase %} del
-            {{ post.date | date: "%Y" }}</span>
-    </div>
-  {% endfor %}
-</div>
-</section>

@@ -6,7 +6,7 @@ categories:
 tags:
 - wallet bitcoin
 - criptomonedas
-cabecera: assets/images/images_posts/wallets-que-he-usado.png
+cabecera: /assets/images/images_posts/wallets-que-he-usado.png
 ---
 El el siguiente video, hablo sobre las diferentes wallet's que he usado para guardar mis criptomonedas. Doy mi punto de vista sobre cada una y el porque las fui dejando. En el mundo de las criptomonedas, siempre es bueno tener una buena wallet que se acomode a nuestras necesidades. Ya sea una wallet para almacenar solamente Bitcoin o una donde podemos almacenar todas las altcoin y asi tenerlas rapidamente al alcance de nuestras manos.
 
