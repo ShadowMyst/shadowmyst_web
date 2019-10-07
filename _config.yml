@@ -3,7 +3,7 @@ author: Shadow Myst
 url: "http://shadowmyst.net"
 #Build settings
 markdown: kramdown
-permalink: :slug
+permalink: :slug/
 pagination:
   enabled: true
   permalink: "/page/:num/"
