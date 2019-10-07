@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-{% include paginator.html %}
 <section class="section has-text-justified">
+    {% include paginator.html %}
 <div class="columns is-desktop is-multiline">
   {% for post in paginator.posts %}
     <div class="column is-one-third has-background-white-bis">
@@ -30,5 +30,5 @@ layout: default
     </div>
   {% endfor %}
 </div>
-</section>
 {% include paginator.html %}
+</section>
