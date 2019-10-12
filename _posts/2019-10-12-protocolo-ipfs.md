@@ -11,7 +11,7 @@ tags:
 cabecera: /assets/images/images_posts/ipfs-logo.png
 comments: true
 ---
-Durante el tiempo en que estuve actualizando la página web, una de mis primera intenciones alojarla usando el protocolo IPFS, sin embargo al final decidí alojarme en el servidor donde tengo alojado mi nodo de Creary. Pero debo mencionar que IPFS es algo que vale la pena conocer, sobre todo si te gustan los sistemas P2P.
+Durante el tiempo en que estuve actualizando la página web, una de mis primera intenciones alojarla usando el protocolo IPFS, sin embargo al final decidí alojarme en el servidor donde tengo alojado mi nodo de [Creary](% post_url 2019-08-26-que-es-creary %). Pero debo mencionar que IPFS es algo que vale la pena conocer, sobre todo si te gustan los sistemas P2P.
 
 
 ## ¿Qués es IPFS?
@@ -32,7 +32,7 @@ Realmente tenerlo e instalarlo es demasiado sencillo y está disponible tanto pa
 Despues de instalarlo lo iniciamos de la siguiente manera:
 ```
 ipfs init
-//ipfs init --profile server en caso de que lo uses como centro de datos, ya reduce el tráfico interno
+ipfs init --profile server //esta opcion en caso de que lo uses como centro de datos, ya reduce el tráfico interno
 ```
 Al momento de aplicar esto se nos creara un hash RSA para el nodo que es clave para su funcionamiento ademas de nuestra ID que es lo que identifica nuestro nodo ante toda la red.
 
