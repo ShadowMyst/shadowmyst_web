@@ -7,7 +7,8 @@ categories:
 tags:
 - Tutorial Ruby
 - Ruby on Rails
-cabecera: /assets/images/images_posts/Ruby-Active-Record-sin-Rails.png
+image: /assets/images/images_posts/Ruby-Active-Record-sin-Rails.png
+lang: "es-MX"
 ---
 Uno de los lenguajes de programación que mas me atraen es sin duda&nbsp;<strong>Ruby,</strong>&nbsp;sobretodo con su<strong>&nbsp;Framework Rails</strong>&nbsp;en la que puedes hacer sitios poderosos y rápidos. Pero una de las características que desde mi punto personal es la mas fuerte de Rails es sin duda&nbsp;<strong>Active Record</strong>&nbsp;que nos permite manipulas bases de datos directamente desde el codigo y es la parte del "Modelo" en el MVC que es Rails.
 

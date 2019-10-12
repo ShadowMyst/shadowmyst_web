@@ -8,7 +8,8 @@ tags:
 - Tutorial Ruby
 - Ruby on Rails
 - rails 6
-cabecera: /assets/images/images_posts/tutorial-01-ruby.png
+image: /assets/images/images_posts/tutorial-01-ruby.png
+lang: "es-MX"
 ---
 Desde hace tiempo había querido hacer tutoriales de programación en Ruby. Y aunque inicie con ellos en una de mis cuentas de Steemit, quiero que estén disponibles para el blog y el canal de Youtube desde lo mas basico y con el paso de los post ir mejorando en cuestión de complejidad. Aunque tengo un post sobre [Active Record sin Rails]({% post_url 2019-04-22-active-record-sin-rails %}) (una gema de rails), creo que seria bueno que empecemos desde cero
 

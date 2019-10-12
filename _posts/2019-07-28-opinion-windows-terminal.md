@@ -6,7 +6,8 @@ categories:
 tags:
 - windows terminal
 - terminal de windows
-cabecera: /assets/images/images_posts/windows-terminal.png
+image: /assets/images/images_posts/windows-terminal.png
+lang: "es-MX"
 ---
 Como desarrollador me gusta trabajar con Linux y más que nada con la terminal, sin embargo, hay veces en las que no puedo abandonar Windows para ciertos tipos de proyectos y usar el símbolo de sistema o abrir Powershell se me hace totalmente deficiente. Pero ahora que Microsoft ha sacado versiones preliminares de Windows Terminal, no podía dejar pasar la oportunidad para probarlo.
 

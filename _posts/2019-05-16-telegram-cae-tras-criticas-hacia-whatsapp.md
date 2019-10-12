@@ -7,7 +7,8 @@ tags:
 - Caida de telegram
 - Telegram cae
 - Pavel Durov
-cabecera: /assets/images/images_posts/telegram.jpg
+image: /assets/images/images_posts/telegram.jpg
+lang: "es-MX"
 ---
 <p>Hoy en la mañana ha caído Telegram en varios países del continente americano, algo que rara vez suele pasar y por mucho tiempo.<br></p>
 

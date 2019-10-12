@@ -8,7 +8,8 @@ tags:
 - Ruby
 - Ruby on Rails
 - rails 6
-cabecera: /assets/images/images_posts/Ruby-Tutorial-04.png
+image: /assets/images/images_posts/Ruby-Tutorial-04.png
+lang: "es-MX"
 ---
 Seguimos con los tutoriales de ruby, veremos el funcionamiento de los Arreglos y Hash
 

@@ -8,7 +8,8 @@ tags:
 - Ruby
 - Ruby on Rails
 - rails 6
-cabecera: /assets/images/images_posts/Ruby-Tutorial-03.png
+image: /assets/images/images_posts/Ruby-Tutorial-03.png
+lang: "es-MX"
 ---
 <p><br>Continuando con los <a href="https://shadowmyst.net/programacion-ruby-02/">tutoriales</a> de programación Ruby hablaremos ahora con las estructuras de control que nos brinda este lenguaje de programación.</p>
 

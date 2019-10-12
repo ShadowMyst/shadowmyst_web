@@ -9,7 +9,8 @@ tags:
 - Novedades Rails 6
 - Lo nuevo de Rails 6
 - Caracteristicas de Rails 6
-cabecera: /assets/images/images_posts/rails-6.png
+image: /assets/images/images_posts/rails-6.png
+lang: "es-MX"
 ---
 <p>El pasado 15 de Agosto fue liberada la nueva versión de Ruby on Rails, la cual contiene novedades interesantes en esta sexta versión del popular Framework.</p>
 

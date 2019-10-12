@@ -8,7 +8,8 @@ tags:
 - critica de peliculas
 - joker Joaquin Phoenix
 - joker 2019
-cabecera: /assets/images/images_posts/joker.jpg
+image: /assets/images/images_posts/joker.jpg
+lang: "es-MX"
 comments: true
 ---
 "¡Solo hace falta un mal dia para sumir al hombre más cuerdo del mundo en la locura!”. Frase del cómic “The Killing Joke” que nos narra uno de los posibles orígenes del Joker, la puedo tomar como referencia para la interpretación que hizo Joaquin Phoenix como Arthur Fleck antes de volverse el “Príncipe payaso del crimen”.

@@ -8,7 +8,8 @@ tags:
 - Tutorial Ruby
 - tutorial ruby on rails
 - ruby como programar
-cabecera: /assets/images/images_posts/Ruby-Tutorial-05.png
+image: /assets/images/images_posts/Ruby-Tutorial-05.png
+lang: "es-MX"
 ---
 <p>Es momento de que profundicemos mas con el lenguaje de Ruby y empezaremos con crear nuestras clases, métodos y entender su estructura. Recordemos que esto no es un tutorial sobre Programación Orientada a Objetos por lo que no se profundizara en el tema pero que es muy importante que lo conozcan para que no se pierdan.</p>
 

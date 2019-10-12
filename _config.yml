@@ -11,6 +11,20 @@ pagination:
   per_page: 9
   sort_field: 'date'
   sort_reverse: true
+#SEO TAGS
+twitter:
+  username: Shadow_Myst
+  card: summary
+logo: assets/shadowmyst_logo.jpg
+social:
+  name: Shadow Myst
+  links:
+    - https://www.facebook.com/ShadowMystPage/
+    - https://twitter.com/Shadow_Myst
+    - https://www.youtube.com/channel/UC8rwHPwKMOPIBbV9H7wKuxA
+    - https://github.com/ShadowMyst
+    - https://www.linkedin.com/in/shadowmyst/
+    - https://keybase.io/ShadowMyst
 # Plugins
 plugins:
 - jekyll-seo-tag

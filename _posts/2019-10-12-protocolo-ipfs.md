@@ -8,10 +8,11 @@ tags:
 - protocolo IPFS
 - P2P
 - Torrent
-cabecera: /assets/images/images_posts/ipfs-logo.png
+image: /assets/images/images_posts/ipfs-logo.png
+lang: "es-MX"
 comments: true
 ---
-Durante el tiempo en que estuve actualizando la página web, una de mis primera intenciones alojarla usando el protocolo IPFS, sin embargo al final decidí alojarme en el servidor donde tengo alojado mi nodo de [Creary](% post_url 2019-08-26-que-es-creary %). Pero debo mencionar que IPFS es algo que vale la pena conocer, sobre todo si te gustan los sistemas P2P.
+Durante el tiempo en que estuve actualizando la página web, una de mis primera intenciones alojarla usando el protocolo IPFS, sin embargo al final decidí alojarme en el servidor donde tengo alojado mi nodo de [Creary]({% post_url 2019-08-26-que-es-creary %}). Pero debo mencionar que IPFS es algo que vale la pena conocer, sobre todo si te gustan los sistemas P2P.
 
 
 ## ¿Qués es IPFS?

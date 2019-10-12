@@ -7,7 +7,7 @@ layout: default
   {% for post in paginator.posts %}
     <div class="column is-one-third has-background-white-bis">
         <a href="{{ post.url }}"><h2 class="subtitle has-text-centered has-text-dark has-text-weight-bold"> {{ post.title }}</h2>
-          <p><img src="{{post.cabecera}}" /></p>
+          <p><img src="{{post.image}}" /></p>
         </a>
         {{ post.excerpt }}
         <span class="tag is-black">{% assign m = post.date | date: "%-m" %}
