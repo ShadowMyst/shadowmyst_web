@@ -18,7 +18,7 @@ Aunque Stadia no es el primer acercamiento a un producto de este tipo, de primer
 
 Google Stadia presenta un gran problema para los latinoamericanos, para que este servicio funcione en sus optimas condiciones el usuario tiene que tener en promedio aproximadamente una velocidad de Internet media de 30 MB, cuando el Internet en la américa latina se encuentra en pésima calidad, según un reporte de [cable.co.uk](https://www.cable.co.uk/broadband/speed/worldwide-speed-league/){:target='_blank'}, siendo que los paises con mejor conexión de Internet se encuentran Panama, Uruguay y México, los cuales apenas llegan a rondar entre los 5 a 7 MB de conexión media.
 
-![Mapa de velocidad de Internet en el mundo](assets/images/images_posts/mapa_medida_internet.png)
+![Mapa de velocidad de Internet en el mundo](/assets/images/images_posts/mapa_medida_internet.png)
 
 Aunque existan algunos usuarios que tengan un internet en óptimas condiciones para usar Google Stadia, realmente estamos hablando de una minoría considerable, por lo que es muy probable que este servicio lo encontremos en latinoamérica tal vez en varios años más.
 
