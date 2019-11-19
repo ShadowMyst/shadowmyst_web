@@ -17,7 +17,7 @@ En América latina el país con el mayor movimiento de criptomonedas es Venezuel
 
 Este mismo fenómeno podría ocurrir en Argentina, ya que está presentando una inflación exagerada del 54%, mientras que en México apenas se presenta un 3.8% según [infobae](https://www.infobae.com/economia/2019/09/14/la-inflacion-anual-de-la-argentina-es-mas-alta-que-la-que-suman-los-principales-paises-de-america/){:target='_blank'}. Sin embargo ¿Qué esta pasando en México en cuestión del uso de las criptomonedas?.
 
-Según [Forbes México](https://www.forbes.com.mx/mexicanos-desconocen-como-funcionan-las-criptomonedas/){:target='_blank'}, el mexicano no usa las criptomonedas por completo desconocimiento de su funcionamiento y falta de confianza, para usarlo en sus transacciones financieras, siendo que 9 de cada 10 mexicanos no saben cómo funcionan.
+Según [Forbes México](https://www.forbes.com.mx/mexicanos-desconocen-como-funcionan-las-criptomonedas/){:target='_blank'}, el mexicano no usa las criptomonedas por el desconocimiento de su funcionamiento y falta de confianza, para usarlo en sus transacciones financieras, siendo que 9 de cada 10 mexicanos no saben cómo funcionan.
 
 La principal falta de confianza ante este valor se refiere a la alta volatilidad que tienen las criptomonedas, buscando que exista una mayor estabilidad para poder llegar a usarlas, también existe el miedo a salir estafados en estas transacciones. Sin embargo no es el simple miedo a las criptomonedas, sino al usar dinero electrónico en general.
 

@@ -5,6 +5,7 @@ categories:
 - Tecnología
 image: /assets/images/images_posts/usb4.jpg
 lang: "es-MX"
+comments: true
 ---
 <p>Pasar información a través de cables USB va a aumentar a un nuevo nivel, ahora gracias al nuevo estándar que la <strong>USB-IF (USB Implementers Forum)</strong> ha publicado y bautizado con el nombre de <strong>USB4</strong>, trayendo en este nuevo estándar cambios en el que podemos destacar la velocidad de transferencia y la compatibilidad.</p>
 
