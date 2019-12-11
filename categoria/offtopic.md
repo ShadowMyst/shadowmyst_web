@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Personal
-permalink: /personal/
+title: Offtopic
+permalink: /offtopic/
 pagination:
   enabled: true
-  category: personal
+  category: offtopic
   permalink: /:num/
   sort_field: 'date'
   sort_reverse: true
