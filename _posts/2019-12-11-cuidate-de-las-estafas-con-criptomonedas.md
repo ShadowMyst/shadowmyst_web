@@ -9,6 +9,7 @@ tags:
 - Bitcoin
 - Economia
 - "tipos de estafas con criptomonedas"
+- "lista de tipos de estafa con criptomonedas"
 image: /assets/images/images_posts/estafa.jpg
 lang: "es-MX"
 comments: true
