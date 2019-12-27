@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Criptomonedas: ¿Los videos se deberian censurar?"
+title: "Criptomonedas: ¿Los videos se deberían censurar?"
 categories:
 - criptomonedas
 tags: 
