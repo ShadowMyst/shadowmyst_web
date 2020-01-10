@@ -18,7 +18,7 @@ Para muestra de un botón, lo acontecido entre Estados Unidos e Irán, hizo que 
 
 Mientras que el año anterior, las criptomonedas se mantuvieron a la baja, los sucesos presentados en estos primeros días del 2020, nos dan a demostrar que es buen momento para invertir en criptomonedas. Este inicio de año el BTC recuperó un 4% de su valor encontrándose en precio de 7330 USD al momento de escribir este artículo.
 
-El mundo blockchain esta siempre en movimiento, tenemos a Coinbase que esta desarrollando una nueva tecnología en torno al mundo de las criptomonedas, existe la posibilidad de que este año salga al mercado Libra (la criptomoneda de Telegram) y se acerca la época del [“Halving”](https://www.binance.vision/es/halving){:target="_blank"}, el evento donde la recompensa por minar Bitcoin es reducido a la mitad. 
+El mundo blockchain esta siempre en movimiento, tenemos a Coinbase que esta desarrollando una nueva tecnología en torno al mundo de las criptomonedas, existe la posibilidad de que este año salga al mercado [Gram]({% post_url 2019-09-06-gram-criptomoneda-telegram-puede-llegar-en-octubre %}) (la criptomoneda de Telegram) y se acerca la época del [“Halving”](https://www.binance.vision/es/halving){:target="_blank"}, el evento donde la recompensa por minar Bitcoin es reducido a la mitad. 
 
 No solo Bitcoin ha tenido un incremento, también otras altcoins han aumentado de valor en estos primeros dias, como lo son Ethereum, Litecoin, Bitcoin Cash, Dash, etc. Recuerden que “a río revuelto ganancia de pescadores”, donde los eventos más caóticos son aprovechados por el que este abusado.
 
