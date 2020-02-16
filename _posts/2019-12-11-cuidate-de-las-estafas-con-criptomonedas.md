@@ -71,6 +71,13 @@ Esta tecnica se trata de crear una pagina clon de una exchange, plataforma recon
 
 Esto incluye sitios de descarga de algun monedero, por lo que las empresas que se dedican a hacer monederos de criptomonedas, junto el link de descarga siempre comparten el hash criptografico para que puedas asegurar que el archivo es genuino.
 
+### Sistemas de referidos
+Tal vez en los principios del Bitcoin, se llegaban a regalar algunos satoshis en las conocidas “faucets”, esto de alguna forma dar a conocer la tecnología blockchain y al mismo tiempo estos sitios están invadidos de publicidad para tener monetizado el sitio y recuperar lo que “regalan”.
+
+Aun existen faucets así, pero lo que regalan siempre suelen ser una cantidad minimo, a veces ni siquiera son mas de 100 satoshis, por eso cuando en grupos enfocados en criptomonedas comparten links de referidos para recibir una recompensa de wallets, plataformas y/o bots de dudosa procedencia rápidamente deberian de prenderse tus timbres de alarma. Sobretodo cuando estas plataformas te prometen grandes recompensas, sobretodo si te piden que metas dinero.
+
+Recuerda, si quieres ingresar a una wallet, plataforma o exchange y no conoces su reputación, siempre pregunta en los foros y grupos de criptomonedas en los que te encuentres, eso si, nunca compartiendo el link de referido, porque rápidamente te puedes ganar un BAN.
+
 ---
 
 Estos son algunos ejemplos de estafas, si se me olvido mencionar alguno dejamelo en los comentarios, de esta forma puedo actualizar el articulo porque esta información es para que los usuarios puedan protegerse y no caigan en algún tipo de estafa, sobretodo los que van iniciando en este mundo.
